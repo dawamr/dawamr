@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawamr" alt="dawamr" /></a> </p>
 
-- 🔭 I’m currently working on [PT. Solarion Energi Alam](https://solarion.co)
+- 🔭 I’m currently working on [PT. Tri Sinar Purnama] (https://www.trisip.com)
 
 - 🌱 I’m currently learning **MCP, AI, and Anything if good**
 
